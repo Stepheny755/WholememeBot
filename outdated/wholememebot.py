@@ -4,6 +4,7 @@ import praw, glob, facebook, re, requests, os, urllib.parse
 #trust me, you didn't want to see these lines
 
 #fb oauth
+#
 
 IMAGE_DIR = 'WholesomeMemes'
 
